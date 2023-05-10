@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, my name is Natalia.</h1>
+<h1 align="left">Hello There, my name is Natalia.</h1>
 <h3 align="center">I'm currently working as a Java Developer and studying IT, but I'm aspiring to become Fullstack Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7d33ef4f0bc97a79200db80767cf6c49/a9c7ed22f2658125-52/s540x810/f9b3aabc630aadc88dc23143969ae21a1c0d8231.gif">
 - 🌱 I’m currently learning **Angular, Docker and Microservices**
