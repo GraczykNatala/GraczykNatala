@@ -1,11 +1,13 @@
 <h1 align="left">Hello There, my name is Natalia.</h1>
-<h3 align="center">I'm currently working as a Java Developer and studying IT, but I'm aspiring to become Fullstack Software Engineer.</h3>
+<h3 align="center">I am currently working as a Java Developer and studying Computer Engineering, but I am aspiring to become Fullstack Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7d33ef4f0bc97a79200db80767cf6c49/a9c7ed22f2658125-52/s540x810/f9b3aabc630aadc88dc23143969ae21a1c0d8231.gif">
-- 🌱 I’m currently learning **Angular, Docker and Microservices**
+I am into IT since i went to technical school. I tried plenty of programming languages, but since I went to college, I am keen on programming in backend languages such as Java. I enjoy learning so I develop my skills all the time through various courses and my own work. Besides, I have good background in hardware.
 
-- 💬 Ask me about **Java, SpringBoot, JEE,**
-
-- 📫 How to reach me **natka.graczyk@gmail.com**
+  - I am currently learning Angular, Docker and microservices.
+  - My native language is Polish, but English is not a problem for me. I had worked as an English language instructor. 
+  - Besides technical skills, I have also very good communication and work organisation skills.  
+ 
+ Contact me here: **natka.graczyk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
